@@ -1,20 +1,27 @@
-import './input.css'
+import "./input.css";
+import PropTypes from "prop-types";
 import React, { useState } from "react";
 
 function Main(props) {
-    const [urlInput, setUrlInput] = useState('')
-    const setUrl = () => {
-        const urls=[...props.urls]
-        urls.push(urlInput)
-        setUrlInput('')
-        props.setUrl(urls)
-    }
-    return (
-        <div className="input">
-            <input className="input__input" placeholder="Introduce URL" value={urlInput} onChange={e=> setUrlInput(e.target.value)}></input>
-            <button className="input__button" onClick={setUrl}>Mostrar datos</button>
-        </div>
-    )
+  const [urlInput, setUrlInput] = useState("");
+  const setUrl = () => {
+    if(!urlInput) return;
+    const urls=[...props.urls];
+    urls.push(urlInput);
+    setUrlInput("");
+    props.setUrl(urls);
+  };
+  return (
+    <div className="input">
+      <input className="input__input" placeholder="Introduce URL" value={urlInput} onChange={e=> setUrlInput(e.target.value)}></input>
+      <button className="input__button" onClick={setUrl}>Mostrar datos</button>
+    </div>
+  );
 }
+
+Main.propTypes = {
+  urls: PropTypes.any,
+  setUrl: PropTypes.any
+};
 
 export default Main;
