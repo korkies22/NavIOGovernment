@@ -1,4 +1,5 @@
-Proyecto que permite observar información del gobierno con navio. Este es el objetivo
+Proyecto que permite observar información del gobierno con navio. Este es el objetivo.
+
 Se terminó antes de acabar la clase
 Se ejecuta con npm install y luego npm start en la carpeta principal
 
