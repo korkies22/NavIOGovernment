@@ -30,5 +30,7 @@ Arriba se indica el número de visualizaciones actual
 [![Pantallazo](https://github.com/korkies22/NavIOGovernment/blob/master/src/images/pantallazo.png?raw=true)]
 
 ## Autor
-Carlos Mario Sarmiento Pinilla https://github.com/korkies22
-https://korkies22.github.io/Portfolio
+- Carlos Mario Sarmiento Pinilla
+- Github: https://github.com/korkies22
+- Pag web personal: https://korkies22.github.io/Portfolio
+- Página desplegada: https://korkies22.github.io/NavIOGovernment/
