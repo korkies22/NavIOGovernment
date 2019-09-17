@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto que permite observar información del gobierno con navio.
+Se ejecuta con npm install y luego npm start en la carpeta principal
 
 ## Available Scripts
 
