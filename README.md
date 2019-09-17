@@ -8,6 +8,7 @@ Se ejecuta con npm install y luego npm start en la carpeta principal
 - React
 - React Hooks
 - Paquete de navio (npm install navio)
+- gh-pages para desplegar el proyecto en github (https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
 - ES6: Promesas, arrow functions, async-await, método fetch, let-const, array destructuring
 
 ## Scripts para ejecutar la aplicación
