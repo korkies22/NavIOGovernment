@@ -20,8 +20,9 @@ function Navio(props) {
     }, [props.url]);
     return (
         <div className="navio">
+            <h2>Mostrando navio de: {props.url}</h2>
             <div ref={navioRef}></div>
-            <button onClick={() => props.setUrl('')}>Volver</button>
+            <button onClick={() => props.setUrl('')} className="navioButton">Volver</button>
         </div>
 
     )
