@@ -1,11 +1,18 @@
-Proyecto que permite observar información del gobierno con navio. Este es el objetivo.
+Proyecto que permite observar información de APIS gobierno que utilizan Socrata (como las disponibles en https://datos.gov.co.)
 
-Se terminó antes de acabar la clase
+Este proyecto se terminó antes de las 8pm del 17 de septiembre de 2019 (primera opción de entrega extra).
+
 Se ejecuta con npm install y luego npm start en la carpeta principal
 
-## Available Scripts
+## Tecnologías usadas:
+- React
+- React Hooks
+- Paquete de navio (npm install navio)
+- ES6: Promesas, arrow functions, async-await, método fetch, let-const, array destructuring
 
-Se debe correr:
+## Scripts para ejecutar la aplicación
+Se debe instalar nodejs en la máquina.
+Posteriormente debe correr (luego de haber clonado el proyecto, en la carpeta principal del proyecto):
 
 ### `npm install`
 Para instalar los paquetes
@@ -21,3 +28,7 @@ Arriba se indica el número de visualizaciones actual
 
 ## Pantallazo 
 [![Pantallazo](https://github.com/korkies22/NavIOGovernment/blob/master/src/images/pantallazo.png?raw=true)]
+
+## Autor
+Carlos Mario Sarmiento Pinilla https://github.com/korkies22
+https://korkies22.github.io/Portfolio
