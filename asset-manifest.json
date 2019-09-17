@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NavIOGovernment/static/css/main.41d84de1.chunk.css",
+    "main.js": "/NavIOGovernment/static/js/main.a610fdcb.chunk.js",
+    "main.js.map": "/NavIOGovernment/static/js/main.a610fdcb.chunk.js.map",
+    "runtime~main.js": "/NavIOGovernment/static/js/runtime~main.169bddc2.js",
+    "runtime~main.js.map": "/NavIOGovernment/static/js/runtime~main.169bddc2.js.map",
+    "static/js/2.f6ea9bcf.chunk.js": "/NavIOGovernment/static/js/2.f6ea9bcf.chunk.js",
+    "static/js/2.f6ea9bcf.chunk.js.map": "/NavIOGovernment/static/js/2.f6ea9bcf.chunk.js.map",
+    "index.html": "/NavIOGovernment/index.html",
+    "precache-manifest.511680dd9157026e303c13288bf49e23.js": "/NavIOGovernment/precache-manifest.511680dd9157026e303c13288bf49e23.js",
+    "service-worker.js": "/NavIOGovernment/service-worker.js",
+    "static/css/main.41d84de1.chunk.css.map": "/NavIOGovernment/static/css/main.41d84de1.chunk.css.map"
+  }
+}
