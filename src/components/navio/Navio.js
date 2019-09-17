@@ -21,7 +21,6 @@ function Navio(props) {
       <h2>Mostrando navio de: {props.url}</h2>
       <div ref={navioRef}></div>
       <div className="button__container">
-        <button onClick={() => props.setUrl("")} className="navioButton">Volver</button>
         <button onClick={() => props.delete(props.index)} className="navioButton">Borrar</button>
       </div>
     </div>
